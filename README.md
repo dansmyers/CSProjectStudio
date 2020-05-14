@@ -1,4 +1,4 @@
-# CMS 395 CS Project Studio
+# CMS 395 - CS Project Studio
 
 ## Summer 2020 Syllabus
 
@@ -25,9 +25,17 @@ critical reflection on your own development practices.
 
 Robert-Fleury's Atelier at Académie Julian for female art students - painting by student Marie Bashkirtseff (1881)
 
+In the old days, an *atelier* was a artists' workshop, where apprentices learned the craft of art under the guidance of an experienced teacher.
 
+This course wil give you the opportunity to dig deep into an area of computer science that interests you. If you wish, you'll be able
+to work on areas of CS or use tools and frameworks that are outside the scope of the normal curriculum. Your goal, over the next
+twelve weeks, will be to produce a series of real, working software projects demonstrating what you've learned. I will be with you along 
+the way, to provide advice and guide you to useful resources.
 
-## Learning Outcomes
+(I know that a few of you are using this class to catch up on requirements that you can't take according to the normal course sequence: we'll talk about those individually).
+
+Along the way, we're going to learn some more about how to plan and execute a larger software project, how to find and use your own
+learning resources, and how to reflect and improve on your own processes.
 
 
 ## Scrumage
@@ -38,19 +46,17 @@ This course will be different from other courses you've taken. We'll be using a 
 ### How Does It Work?
 Here are the  main features of Scrumage:
 
-1. The course is structured as a series of **sprints**, each lasting two weeks. Each sprint covers one unit of material. There will be seven sprints in our course.
+1. The course is structured as a series of **sprints**, each lasting two weeks.
 
-2. At the beginning of each sprint, you'll be given a list of learning topics for the sprint, a curated list of resources (videos, readings, worked examples, etc.), and a set of required deliverables due at the end of the two-week period.
+2. At the beginning of each sprint, you'll create a plan and define a target deliverable that you'll complete by the end of the sprint.
+Your deliverable should be a piece of **working software**. In the early stages of your project, this might mean writing small programs
+to get familiar with the tools that you're using, but after the first couple of sprints you'll probably be adding features to one major
+project that will take you through the end of the course.
 
-3. Working with a team, you'll have broad freedom to decide how to use the available resources to learn the required material and complete the sprint deliverables. You can decide on your own meeting schedule, what resources to use, and your own plan for finishing the projects. Scrumage gives you **options** and the freedom to determine your own best learning approach.
+3. During the sprint, you'll demo your work-in-progress during our scheduled class meetings, answer questions, and receive feedback.
 
-4. As your professor, I'll be in the room each day to meet with your teams, answer your questions, and check your work-in-progress. You can make an **expert request** to ask for a short lecture, worked example, or other help with a particular topic.
-
-5. Each sprint ends with an individual quiz.
-
-6. You'll complete a brief reflection at the end of each sprint, which will help you understand your own learning process and make improvements before the next sprint.
-
-Take a look at the `Scrumage.md` document for a detailed overview of the process.
+4. Each sprint ends with a reflective assessment where you'll write about the work that you completed and reflect on how you can work
+more effectively in the next sprint.
 
 ### That Sounds Hard. Why Are We Doing This?
 Scrumage is based on **student choice**, **flexibility**, and **reflection**.
@@ -67,32 +73,51 @@ Finally, Scrumage supports **learning how to learn**, the **single most importan
 
 ### Sprints
 
-| Sprint       | Topic                           | Start  |   End  | Deliverable     | Learning Outcomes |
-| -------------|---------------------------------|--------|--------|-----------------|----------|
-| 1            | Fundamental Analysis Techniques |   1/15 |  1/27  | Problem set | 1, 2, 5  |
-| 2            | Divide-and-Conquer              |   1/27 |  2/10  | Problem set     | 2, 3     |
-| 3            | Advanced Data Structures: Trees and Hashing   |  2/10  |  2/24   | Implementation    | 1, 2, 3, 4 |
-| 4            | Dynamic Programming |  2/24   |  3/9  | Something hard     | 1, 2, 3, 4 |
-| 5            | Interview Questions |  3/9   |  3/25  | Videos!       | 1, 2, 3, 4 |
-| 6            | Graph Algorithms                        |  3/30  |  4/13  | Maze generation | 1, 2, 3, 4, 5 |
-| 7            | NP Completeness                |  4/13  |  4/27  |  Problem set (probably)  | 1, 2, 3, 4, 5 |
+| Sprint       | Topic                           | Start  |   End  | Deliverable     |
+| -------------|---------------------------------|--------|--------|-----------------|
+| 1            |                                 |   1/15 |  1/27  |                 |
+| 2            |                                 |   1/27 |  2/10  |                 |
+| 3            |                                 |  2/10  |  2/24  |                 |
+| 4            |                                 |  2/24  |  3/9   |                 |
+| 5            |                                 |  3/9   |  3/25  |                 |
 
-### Schedule Guidelines
-
-You **must** be in class on the ending day of each sprint to complete the individual quiz.
 
 ### Other Important Dates
 
-- First day of class: Wednesday, January 15
-- Last day of class: Monday, April 27
-- MLK Day: Monday, January 20
-- Spring Break: Saturday, 3/14 to Sunday 3/22 (occurs during Sprint 5)
-- Dr. Myers at Sunshine State Teaching and Learning Conference: 1/29
-- Dr. Myers at SIGCSE: Wednesday, 3/11 to Sunday, 3/15
-- Last day to drop the class: January 28
-- Last day to withdraw without penalty: April 3
+- First day of class: Tuesday, May 19
+- Last day of class: Friday, August 14
+- Last day to withdraw without penalty: July 17
 
 ## The All-Important Grading Section
+
+### Ungrading
+
+Grading for this course will also be different from your previous classes.
+
+I'm proposing to **ungrade** this class. There will be no marks, points, or letter grades on the work you complete. Instead, you will complete the reflective self-assessments and I will write provide you with written feedback in the form of process letters at the end of each sprint. 
+
+At the end of the semester, **you will decide what grade you should receive**, based on a detailed assessment of the work you've completed during the course. Yes, you read that correctly. Go back and read it again.
+
+This means exactly what it sounds like:
+
+- Your grade will not be determined by percentages, points, or any other scoring mechanism.
+
+- You will have to work on and make progress on your individual project during the semester, but I will not be directly assessing or scoring the work you complete. This means it isn't possible to "fail" your project: you just complete as much as you complete.
+
+- I will provide you with formal, written feedback at regular intervals discussing my observations of your work and the process you're using. This will allow me to focus my work on being a **coach** for your projects rather than an **evaluator**.
+
+- **You get to choose your own final letter grade**. Per the college's policy, I have the ultimate responsibility to determine grades, so I will make sure that your self-assessment is reasonable given the work that you've completed during the course. **I reserve the right to change grades as appropriate**, but I will honor your self-assessment.
+
+### Question You May Have at This Point
+
+#### This Sounds Like a Bunch of Hippie Nonsense
+
+<img src="https://cdn.theatlantic.com/thumbor/Yo7eaFpgMcMYPBvzUYn_MeZlC9c=/2x239:2993x1921/720x405/media/img/2017/12/AP_6708260168/original.jpg" width="50%" />
+
+That's not really a question, but let's address the fact that this style of ungrading is unusual. In my long experience, I've never taken a class that operated under anything other than a standard, traditional points-out-of-100 grading system.
+
+
+
 
 ### Specs Grading
 Grading for this course will also be different from your previous classes.
