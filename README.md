@@ -108,108 +108,59 @@ This means exactly what it sounds like:
 
 - **You get to choose your own final letter grade**. Per the college's policy, I have the ultimate responsibility to determine grades, so I will make sure that your self-assessment is reasonable given the work that you've completed during the course. **I reserve the right to change grades as appropriate**, but I will honor your self-assessment.
 
-### Question You May Have at This Point
+### Questions You May Have at This Point
 
-#### This Sounds Like a Bunch of Hippie Nonsense
+#### This sounds like a bunch of hippie nonsense.
 
 <img src="https://cdn.theatlantic.com/thumbor/Yo7eaFpgMcMYPBvzUYn_MeZlC9c=/2x239:2993x1921/720x405/media/img/2017/12/AP_6708260168/original.jpg" width="50%" />
 
-That's not really a question, but let's address the fact that this style of ungrading is unusual. In my long experience, I've never taken a class that operated under anything other than a standard, traditional points-out-of-100 grading system.
+That's not really a question, but let's acknowledge the fact that this approach is unusual. In my long experience, I've never taken a class that operated under anything other than a traditional points-out-of-100 grading system.
+
+#### Okay, but why are you doing this?
+
+- We are still in an unprecedented global pandemic. The immediate crisis of the spring seems to have abated, at least for now, but there's no telling how things will evolve over the coming weeks and months. This course is fully online, so I don't anticipate disruptions to our course delivery, but we might need to be prepared for other individual disruptions. Under this system, the schedule of the course and the series of sprints is set, but the assessment mechanism is more robust to changes that might come up.
+
+- The purpose of this course is for you to stretch out and create something new. That goal is not really consistent with me setting hard evaluation criteria that you must meet or risk failure. Your project is ultimately going to evolve as you learn more and experiment, and I want to encourage that experimentation, not force you to take a safe path where you know you can get a good grade with minimum effort.
+
+- Along the same lines, I want you to be in control of your own project. That means you have the ability to set your own goals (within the Scrum structure that I've provided) and determine your own criteria for success. If I'm going to give you that responsibility, I should also trust your own evaluation of your work.
+
+- Being able to reflect on your own work and development is a standard part of professional self-evaluations in industry. This course will give you an opportunity to practice reflection and **metacognition** (the skill of thinking about your own thinking). Likewise, developing **intrinsic motivation** and the ability to self-regulate and manage your own work is a key life skill. So, basically, I'm setting you up for massive career success.
+
+- There's a lot of compelling evidence that grades are mostly a waste of time and, at best, unrelated to learning. Check out the articles below for more.
+
+#### But being graded makes me feel safe and warm.
+
+As much as grades can be a source of anxiety for students, they can also be a source of comfort. Getting regular grades, for many of
+us, is a form of positive reinforcement and we can derive a sense of meaning from the goal of "getting a good grade".
+
+If that isn't available, we have to **construct alternate reasons that justify the work** we're putting into the course. I would argue 
+that doing that kind of reflection is a *good thing*, for the most part.
+
+That said, please talk to me if you're finding that the ungrading is causing you more anxiety than it alleviates.
+
+#### What do I need to do to get an A?
+
+Do the things you know you're supposed to do.
+
+- Complete meaningful work for every sprint. Don't have any sprints where you fail to accomplish anything.
+
+- Take responsibility for your own progress and the success of your project. Get moving quickly and don't waste time getting started with things.
+
+- Work a little bit every day and don't binge.
+
+- Attend and participate in the course meetings. Give well-prepared demos of your work in progress.
+
+- Reflect on your own work and write meaningful self-evaluations. Use feedback to improve.
 
 
+#### Where can I learn more?
 
+Check out the following articles.
 
-### Specs Grading
-Grading for this course will also be different from your previous classes.
+- [Why I Don't Grade](https://www.jessestommel.com/why-i-dont-grade/), [How to Ungrade](https://www.jessestommel.com/how-to-ungrade/) and other articles by Jesse Stommel.
 
-Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on a bundle of assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system.
+- [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/) by Alfie Kohn, which discusses some of the results from educational pschology on the impact of grading on the learning process.
 
-If you achieve satisfactory performance on enough assigments, described in more detail below, you'll receive a baseline grade of **B** for the course. This demonstrates that you have engaged with the material and met the basic learning outcomes for the class. To get a higher grade, you can do more work that shows greater mastery of the course learning outcomes.
-
-### Assignments and Scoring
-We'll have four kinds of assignments in the class:
-
-1. Short reflective pieces and concept maps completed at the end of each sprint.
-2. Team deliverables due at the end of each sprint.
-3. Indvidual quizzes
-4. A final exam.
-
-I will grade most of the items you turn in on a two-level scale: your work will be either **satisfactory** or receive **no credit**. 
-A "satisfactory" assignment corresponds to a B-level performance, which is **a higher standard** than we often associate with that term. It means that the work is:
-
-1. Substantially complete and correct (there may be a few issues, but only minor ones).
-2. Shows real understanding and application of the course material.
-3. Completed on time in the required format.
-
-I'll grade the quizzes on a scale from 0 to 2:
-
-0. No submission, or too incomplete to grade.
-1. Shows effort, but has serious issues.
-2. Satisfactory.
-
-### Final Letter Grades
-
-**To earn a B**, you must meet the following six criteria:
-
-1. Satisfactory completion of all reflective assignments and concept maps.
-2. Satisfactory completion of *N - 1* quizzes (I'll ignore your lowest quiz).
-3. Satisfactory work on all of the team sprint deliverables.
-4. Satisfactory work on major project #1.
-5. Satisfactory work on major project #2.
-6. Satisfactory performance on the final exam.
-
-**If you fail to complete the requirements for a B**, your grade will be adjusted downwards according to the following table:
-
-| For unsatisfactory performance on              | Your grade will be adjusted downwards by |
-|------------------------------------------------|------------------------------------------|
-| One quiz beyond the one you're allowed to drop | Fraction of a letter grade (e.g. B to B-)       |
-| Additional quizzes                             | A full letter grade (e.g. B to C)        |
-| One team deliverable                           | Fraction of a letter grade                      |
-| Additional team deliverables                   | A full letter grade                      |
-| The final exam                                 | A full letter grade                      |
-| Failure to complete all reflective assignments | A full letter grade                      |
-| Failure to submit an assignment                | Double the regular penalty for an unsatisfactory submission |
-
-These penalties are cumulative. For example, if you fail to achieve satisfactory performance on two quizzes (beyond the one you're allowed drop), your base grade would be lowered by 1.5 letters, from B to C-.
-
-**To earn a higher grade**, you can complete additional work that shows deeper engagement with the course goals.
-
-| For successfully completing                         | Your grade will be adjusted upwards by   |
-|-----------------------------------------------------|------------------------------------------|
-| A challenge assignment (there will be at least two) | Half a letter grade                      |
-| An in-depth reflective writing assignment           | Half a letter grade                      |
-| Tutorial blog post           | Half a letter grade                      |
-
-If your grade drops, you can still complete extra work to boost it up. For example, you could struggle with one team deliverable, but
-complete the reflective writing assignment. The two would cancel each other out and your grade would remain a B.
-
-### Why Are You Doing This To Us?
-
-1. In a traditional system, your grade is ultimately determined by my judgment of your work. My judgment is pretty good, but specs grading gives you more clarity about where you stand and guidance for how to achieve the grade you want
-
-2. Your grade is directly tied to the learning that you demonstrate. The satisfactory work sets a baseline, but to earn a higher grade, you must demonstrate a higher level of engagement with the course material.
-
-3. It gives you choices for how to attain higher grades. You can boost your grade by completing individual programming assignments, superior team-based projects, or an in-depth reflection.
-
-4. It's relatively easy to get a B if you do the required work, but hard to get an A. This preserves the integrity of the course, while still making it possible for everyone to succeed.
-
-5. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent. You don't have to spend time on the most difficult assignments if you don't need them to get the result you want.
-
-6. It reflects how you'll be evaluated in your career. Work assignments aren't graded out of 100% and your boss won't give partial credit for incomplete work. So, basically, I'm setting you up for massive career success.
-
-### What About My Partial Credit?
-
-You may feel uncomfortable about the two-level grading scale. This will pass.
-
-1. Two-level grading is faster, so I will be able to return work more quickly and put more effort into giving you meaningful feedback.
-
-2. Two-level grading is more consistent. It's easier to sort work into two bins, rather than slicing it into 100 possible points.
-
-3. Each project will have a spec that clearly explains the requirements for satisfactory work. You can also ask me (through the expert request form) for an evaluation of your work-in-progress.
-
-4. Again, industry doesn't give partial credit. If you're asked to code a feature or prepare a presentation, you're ultimately going to be evaluated on a pass / fail basis.
-
-5. There are six ways to increase your grade. You only need three of them to move from the satisfactory B to an A.
 
 ## Course Policies
 
