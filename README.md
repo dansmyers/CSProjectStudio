@@ -11,7 +11,8 @@ dmyers@rollins.edu
 407-646-2146
 
 ## Office Hours
-Office hours are by appointment. I will be regularly accessible by instant messaging via Slack, discussed in more detail below.
+Office hours are by appointment. I will be regularly accessible by instant messaging via Slack, which we'll discuss during the 
+first class meeting.
 
 ## Official Course Description
 
