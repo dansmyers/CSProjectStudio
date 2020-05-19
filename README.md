@@ -95,7 +95,7 @@ Finally, Scrumage supports **learning how to learn**, the **single most importan
 
 Grading for this course will also be different from your previous classes.
 
-I'm proposing to **ungrade** this class. There will be no marks, points, or letter grades on the work you complete. Instead, you will complete the reflective self-assessments and I will write provide you with written feedback in the form of process letters at the end of each sprint. 
+I'm proposing to **ungrade** this class. There will be no marks, points, or letter grades on the work you complete. Instead, you will complete the reflective self-assessments and I will provide you with written feedback in the form of process letters at the end of each sprint. 
 
 At the end of the semester, **you will decide what grade you should receive**, based on a detailed assessment of the work you've completed during the course. Yes, you read that correctly. Go back and read it again.
 
