@@ -119,7 +119,8 @@ That's not really a question, but let's acknowledge the fact that this approach 
 
 #### Okay, but why are you doing this?
 
-- We are still in an unprecedented global pandemic. The immediate crisis of the spring seems to have abated, at least for now, but there's no telling how things will evolve over the coming weeks and months. This course is fully online, so I don't anticipate disruptions to our course delivery, but we might need to be prepared for other individual disruptions. Under this system, the schedule of the course and the series of sprints is set, but the assessment mechanism is more robust to changes that might come up.
+- We are still in an unprecedented global pandemic. The immediate crisis of the spring seems to have abated, at least for now, but there's no telling how things will evolve over the coming weeks and months. This course is fully online, so I don't anticipate disruptions to our course delivery, but we might need to be prepared for other individual disruptions. Under this system, the schedule of the course and the series of sprints is set, but the grading system can remain flexible and still honor the effort you're all putting
+into the course, no matter what challenges come up.
 
 - The purpose of this course is for you to stretch out and create something new. That goal is not really consistent with me setting hard evaluation criteria that you must meet or risk failure. Your project is ultimately going to evolve as you learn more and experiment, and I want to encourage that experimentation, not force you to take a safe path where you know you can get a good grade with minimum effort.
 
