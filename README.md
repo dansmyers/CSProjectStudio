@@ -147,7 +147,7 @@ Do the things you know you're supposed to do.
 
 - Take responsibility for your own progress and the success of your project. Get moving quickly and don't waste time getting started with things.
 
-- Work a little bit every day and don't binge.
+- Work on the course every day. Don't try to binge on huge amounts of work right before deadlines.
 
 - Attend and participate in the course meetings. Give well-prepared demos of your work in progress.
 
