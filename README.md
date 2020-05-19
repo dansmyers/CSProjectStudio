@@ -142,7 +142,8 @@ That said, please talk to me if you're finding that the ungrading is causing you
 
 #### What do I need to do to get an A?
 
-Do the things you know you're supposed to do.
+The entire concept of ungrading means that their can't be a formula for earning a particular grade. However, if you do the things you know you're supposed to do, I have no doubt that you'll have both a good experience in the course and be able to give yourself an
+honestly positive self-evaluation.
 
 - Complete meaningful work for every sprint. Don't have any sprints where you fail to accomplish anything.
 
