@@ -26,7 +26,7 @@ critical reflection on your own development practices.
 
 Robert-Fleury's Atelier at Académie Julian for female art students - painting by student Marie Bashkirtseff (1881)
 
-In the old days, an *atelier* was a artists' workshop, where apprentices learned the craft of art under the guidance of an experienced teacher.
+In the old days, an *atelier* was a combination workshop and school, where apprentices learned the craft of fine art under the guidance of an experienced teacher.
 
 This course wil give you the opportunity to dig deep into an area of computer science that interests you. If you wish, you'll be able
 to work on areas of CS or use tools and frameworks that are outside the scope of the normal curriculum. Your goal, over the next
