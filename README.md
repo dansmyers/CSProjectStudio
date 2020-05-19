@@ -50,7 +50,7 @@ Here are the  main features of Scrumage:
 1. The course is structured as a series of **sprints**, each lasting two or three weeks.
 
 2. At the beginning of each sprint, you'll create a plan and define a target deliverable that you'll complete by the end of the sprint.
-Your deliverable should be a piece of **working software**. In the early stages of your project, this might mean writing small programs
+Your deliverable should always be a piece of **working software**. In the early stages of your project, this might mean writing small programs
 to get familiar with the tools that you're using, but after the first couple of sprints you'll probably be adding features to one major
 project that will take you through the end of the course.
 
