@@ -107,7 +107,7 @@ This means exactly what it sounds like:
 
 - I will provide you with formal, written feedback at regular intervals discussing my observations of your work and the process you're using. This will allow me to focus on being a **coach** for your projects rather than an **evaluator**.
 
-- **You get to choose your own final letter grade**. Per the college's policy, I have the ultimate responsibility to determine grades, so I will make sure that your self-assessment is reasonable given the work that you've completed during the course. **I reserve the right to change grades as appropriate**, but I will honor your self-assessment.
+- **You get to choose your own final letter grade**. Per the college's policy, I have the ultimate responsibility to determine grades, so **I reserve the right to change grades as appropriate**, but I promise that I will honor your self-assessment.
 
 ### Questions You May Have at This Point
 
