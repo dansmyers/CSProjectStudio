@@ -73,13 +73,13 @@ Finally, Scrumage supports **learning how to learn**, the **single most importan
 
 ### Sprints
 
-| Sprint       | Topic                           | Start  |   End  | Deliverable     |
-| -------------|---------------------------------|--------|--------|-----------------|
-| 1            |                                 |   1/15 |  1/27  |                 |
-| 2            |                                 |   1/27 |  2/10  |                 |
-| 3            |                                 |  2/10  |  2/24  |                 |
-| 4            |                                 |  2/24  |  3/9   |                 |
-| 5            |                                 |  3/9   |  3/25  |                 |
+| Sprint       | Start  |   End  | Deliverable     |
+| -------------|--------|--------|-----------------|
+| 1            |   5/19 |  6/9  |     Written project proposal |
+| 2            |   6/9 |  6/23  | Review of work-in-progress                |
+| 3            |  6/23  |  7/7  | Midpoint review and revisions                |
+| 4            |  7/7  |  7/21   | Review of work-in-progress                |
+| 5            |  7/21   |  8/11  | Final demonstration                |
 
 
 ### Other Important Dates
