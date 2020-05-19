@@ -47,7 +47,7 @@ This course will be different from other courses you've taken. We'll be using a 
 ### How Does It Work?
 Here are the  main features of Scrumage:
 
-1. The course is structured as a series of **sprints**, each lasting two weeks.
+1. The course is structured as a series of **sprints**, each lasting two or three weeks.
 
 2. At the beginning of each sprint, you'll create a plan and define a target deliverable that you'll complete by the end of the sprint.
 Your deliverable should be a piece of **working software**. In the early stages of your project, this might mean writing small programs
