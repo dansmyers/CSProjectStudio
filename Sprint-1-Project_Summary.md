@@ -1,4 +1,4 @@
-# Sprint 1 Project Summary
+# Sprint 1 Project Summary and Initial Backlog
 
 ## Due Tuesday, June 9
 
@@ -15,7 +15,8 @@ Your document should include:
 
 - The current status of the project: what you've done and learned so far.
 
-- A **prospective** list of features that you know you need to complete.
+- A **prospective** list of features that you know you need to complete. This is called the **project backlog** and you'll continue to
+work with it for the rest of the class.
 
 ## Format
 
@@ -62,3 +63,33 @@ know that you've satisfied that step.
 
 If you have a step that seems important but you don't know how to break into smaller tasks, it usually points to a gap in your
 knowledge. Your goal then becomes learning enough to be able to break the big task down into sub tasks.
+
+## Estimates
+
+One last element that will go into your backlog: provide an **estimate** of how long you think each task will take.
+
+Coming up with good estimates is famously tough. In fact, it's probably the hardest part of agile development in pratice, which
+can often lead to teams taking on too much work during a sprint.
+
+Here's a suggestion: mark each item as taking 1 hour, 2 hours, 4 hours, or more than 4 hours.
+
+- 1 hour: tasks that can be done in roughly one work session.
+
+- 2 hours: tasks that probably need more than one work session, but not more than a few days.
+
+- 4 hours: tasks that need between two or three days and a week.
+
+- More than 4 hours: anything that would take this long is too large or uncertain and can't be estimated accurately.
+
+The goal is not to get perfect estimates, although you'll probably get better with time. Rather, the estimating process is about 
+helping you plan and schedule your work. If, for example, all of your high priority tasks are marked at four or more hours, that 
+suggests that you might need to refine your backlog to break them into smaller units.
+
+Ideally, the top of your backlog should be composed of well-scoped 1 and 2 hour tasks with clear Definitions of Done.
+
+## More Reading
+
+There are lots of articles about Scrum backlogs and proudct owners. Start with this one if you'd like another perspective and
+some examples:
+
+https://www.scrum-institute.org/The_Scrum_Product_Backlog.php
